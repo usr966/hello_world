@@ -1,2 +1,4 @@
 # hello_world
-jstanothr
+jstanoter
+pro noob here, always inquisitive
+godspeed
